@@ -3,17 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://phoenixnudt.github.io/categories/</loc>
+    <loc>https://phoenixnudt.github.io/post/my-first-post/</loc>
+    <lastmod>2015-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phoenixnudt.github.io/categories/</loc>
+    <lastmod>2015-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://phoenixnudt.github.io/tags/</loc>
+    <loc>https://phoenixnudt.github.io/post/</loc>
+    <lastmod>2015-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://phoenixnudt.github.io/</loc>
+    <loc>https://phoenixnudt.github.io/tags/</loc>
+    <lastmod>2015-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phoenixnudt.github.io/</loc>
+    <lastmod>2015-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phoenixnudt.github.io/categories/%E5%88%86%E7%B1%BB1/</loc>
+    <lastmod>2015-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phoenixnudt.github.io/categories/%E5%88%86%E7%B1%BB2/</loc>
+    <lastmod>2015-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phoenixnudt.github.io/tags/%E6%A0%87%E7%AD%BE1/</loc>
+    <lastmod>2015-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phoenixnudt.github.io/tags/%E6%A0%87%E7%AD%BE2/</loc>
+    <lastmod>2015-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phoenixnudt.github.io/tags/%E6%A0%87%E7%AD%BE3/</loc>
+    <lastmod>2015-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
